@@ -6,6 +6,7 @@
  *  - 70 - 79 : 3
  *  - 60 - 69 : 2
  *  -    - 59 : 1
+ * 
  *
  * @param {number} score (0 <= score <= 100)
  * @returns {number} grade or 0 if any arguments are not proper
